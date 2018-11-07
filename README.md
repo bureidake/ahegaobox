@@ -6,4 +6,5 @@
             alt="GPG"></a>
 </p>
 
-Encrypted files for members of bureidake
+Encrypted files for members of bureidake <br/>
+docx, textfile, and so forth.
